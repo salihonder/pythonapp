@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'salihonder'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_15874b3c382b4efbb7d44b6750c1e403 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_bb2b7fbe8edf48ec919fa8d3433c457b }}
